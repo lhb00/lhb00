@@ -1,6 +1,20 @@
-<div align = "center">
+
 
 # Lee Hee Bum 😎
+
+## Career
+* 2019.03.04~ [Konkuk University, Major: Applied Statistics](https://stat.konkuk.ac.kr) (Now, Bachelor's Degree 2nd grade)
+* 2020.04.07~ [Konkuk University Data Science Club(by Python) Kuggle](https://cafe.naver.com/kuggler)
+* 2020.04.08~ [Konkuk University Data Science Club(by R) Kustar](https://cafe.naver.com/kustar20)
+
+## 병역(Military Service)
+* 2021.01.01 ~ 2022.07.10 육군특수전사령부 11공수특전여단 병장 만기전역
+</br>
+(ROK Special Force 11th Special Force Brigade Sgt. Expiration Transfer)
+
+![discharge](./discharge.jpeg)
+
+<div align = "center">
 
 ### Links
 [![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@lhb00)
