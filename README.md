@@ -1,5 +1,3 @@
-
-
 # Lee Hee Bum 😎
 
 ## Career
@@ -9,7 +7,6 @@
 
 ## 병역(Military Service)
 * 2021.01.01 ~ 2022.07.10 육군특수전사령부 11공수특전여단 병장 만기전역
-</br>
 (ROK Special Force 11th Special Force Brigade Sgt. Expiration Transfer)
 
 ![discharge](./discharge.jpeg)
@@ -56,19 +53,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-181717.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![lhb00's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhb00&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhb00&layout=compact&theme=dark)
 </br>
