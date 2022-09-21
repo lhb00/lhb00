@@ -43,6 +43,7 @@
 ### 통합 개발 환경(IDE)
 
 #### 그래도 좀 침(pretty good)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 #### 배우는 중(currently learning)
