@@ -6,7 +6,7 @@
 * 2020.04.08~ [Konkuk University Data Science Club(by R) Kustar](https://cafe.naver.com/kustar20)
 
 ## 병역(Military Service)
-* 2021.01.01 ~ 2022.07.10 육군특수전사령부 11공수특전여단 병장 만기전역
+* 2021.01.11 ~ 2022.07.10 육군특수전사령부 11공수특전여단 병장 만기전역
 (ROK Special Force 11th Special Force Brigade Sgt. Expiration Transfer)
 
 ![discharge](./discharge.jpeg)
