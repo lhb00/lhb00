@@ -1,7 +1,7 @@
 # Lee Hee Bum 😎
 
 ## Career
-* 2019.03.04~ [Konkuk University, Major: Applied Statistics](https://stat.konkuk.ac.kr) (Now, Bachelor's Degree 2nd grade)
+* 2019.03.04~ [Konkuk University, Major: Applied Statistics](https://stat.konkuk.ac.kr) (Now, Bachelor's Degree 3rd grade)
 * 2020.04.07~ [Konkuk University Data Science Club(by Python) Kuggle](https://cafe.naver.com/kuggler)
 * 2020.04.08~ [Konkuk University Data Science Club(by R) Kustar](https://cafe.naver.com/kustar20)
 
